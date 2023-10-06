@@ -307,7 +307,7 @@
                     "transformationFunction": 0,
                     "transformationFunctionParam": "",
                     "rawDataPrimaryFieldMatchTerm": "file_name",
-                    "rawDataPrimaryFieldComparisonType": 0,
+                    "rawDataPrimaryFieldComparisonType": 2,
                     "rawDataSecondaryFieldMatchTerm": "",
                     "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "",
