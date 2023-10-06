@@ -1970,7 +1970,7 @@
                     "rawDataSecondaryFieldMatchTerm": "attach_cc_raw",
                     "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "attach_bcc_raw",
-                    "rawDataThirdFieldComparisonType": 2,
+                    "rawDataThirdFieldComparisonType": 0,
                     "enrichmentFields": [],
                     "isArtifact": false,
                     "extractionFunctionParam": ",",
