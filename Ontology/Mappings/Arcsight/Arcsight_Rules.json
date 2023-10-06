@@ -1256,7 +1256,7 @@
                     "rawDataPrimaryFieldMatchTerm": "deviceAddress",
                     "rawDataPrimaryFieldComparisonType": 0,
                     "rawDataSecondaryFieldMatchTerm": "device_address",
-                    "rawDataSecondaryFieldComparisonType": 2,
+                    "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "",
                     "rawDataThirdFieldComparisonType": 0,
                     "enrichmentFields": [],
