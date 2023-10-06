@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "source": "RSANetWitnessPlatform",
+        "product": "RSA NetWitness Platform",
+        "eventName": null,
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "RSANetWitnessPlatform",
+        "product": "RSA NetWitness Platform",
+        "eventName": "Alert",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "RSANetWitnessPlatform",
+        "product": "RSA NetWitness Platform",
+        "eventName": "Incident",
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    }
+]
