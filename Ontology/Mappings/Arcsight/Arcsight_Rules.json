@@ -64,7 +64,7 @@
                     "transformationFunction": 0,
                     "transformationFunctionParam": "",
                     "rawDataPrimaryFieldMatchTerm": "destination_userId",
-                    "rawDataPrimaryFieldComparisonType": 2,
+                    "rawDataPrimaryFieldComparisonType": 0,
                     "rawDataSecondaryFieldMatchTerm": "destination_userName",
                     "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "",
