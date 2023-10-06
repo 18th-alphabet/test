@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "source": "SumoLogicCloudSIEM",
+        "product": "Cloud SIEM",
+        "eventName": null,
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    }
+]
