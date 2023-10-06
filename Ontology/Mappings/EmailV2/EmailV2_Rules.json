@@ -1694,7 +1694,7 @@
                     "rawDataPrimaryFieldMatchTerm": "attach_message_id",
                     "rawDataPrimaryFieldComparisonType": 0,
                     "rawDataSecondaryFieldMatchTerm": "",
-                    "rawDataSecondaryFieldComparisonType": 0,
+                    "rawDataSecondaryFieldComparisonType": 2,
                     "rawDataThirdFieldMatchTerm": "",
                     "rawDataThirdFieldComparisonType": 0,
                     "enrichmentFields": [],
