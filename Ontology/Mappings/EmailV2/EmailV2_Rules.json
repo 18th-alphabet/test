@@ -1312,7 +1312,7 @@
                     "transformationFunction": 0,
                     "transformationFunctionParam": "",
                     "rawDataPrimaryFieldMatchTerm": "attach_subject",
-                    "rawDataPrimaryFieldComparisonType": 2,
+                    "rawDataPrimaryFieldComparisonType": 0,
                     "rawDataSecondaryFieldMatchTerm": "",
                     "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "",
