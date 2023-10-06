@@ -1098,7 +1098,7 @@
                     "rawDataPrimaryFieldMatchTerm": "attach_to",
                     "rawDataPrimaryFieldComparisonType": 0,
                     "rawDataSecondaryFieldMatchTerm": "attach_cc",
-                    "rawDataSecondaryFieldComparisonType": 2,
+                    "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "",
                     "rawDataThirdFieldComparisonType": 0,
                     "enrichmentFields": [],
