@@ -1069,7 +1069,7 @@
                     "transformationFunction": 0,
                     "transformationFunctionParam": "",
                     "rawDataPrimaryFieldMatchTerm": "attach_from",
-                    "rawDataPrimaryFieldComparisonType": 2,
+                    "rawDataPrimaryFieldComparisonType": 0,
                     "rawDataSecondaryFieldMatchTerm": "",
                     "rawDataSecondaryFieldComparisonType": 0,
                     "rawDataThirdFieldMatchTerm": "",
