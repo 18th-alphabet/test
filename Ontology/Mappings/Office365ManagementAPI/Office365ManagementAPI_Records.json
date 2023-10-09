@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "source": "Office365ManagementAPI",
+        "product": "Office 365 Management API",
+        "eventName": null,
+        "familyName": "Default",
+        "familyId": 0,
+        "mappingStatus": null,
+        "changeSource": 0,
+        "exampleEventFields": []
+    }
+]
